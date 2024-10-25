@@ -40,7 +40,7 @@ I have developed a few commands to help me with orginization of my folders for C
 - and more.
 
 ### bashrc and starship.toml
-Included in the same Gi as the organization commands is my bashrc and starship.toml files that I use for my terminal. There is some extra stuff in there that you will probably want to remove as I just copy and pasted the files for the most part.
+Included in the same Git as the organization commands is my bashrc and starship.toml files that I use for my terminal. There is some extra stuff in there that you will probably want to remove as I just copy and pasted the files for the most part.
 
 Link to the Git here: <a href="https://github.com/bountyhunter1568/Bash-Setup-With-Starship">Organization commands, bashrc, and starship.toml</a>
 
