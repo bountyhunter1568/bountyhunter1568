@@ -1,6 +1,5 @@
 # Welcome to my GitHub Page
-- CTF Player for the UW-W Cyberhawks
-- I also develop some small things on the side
+- I develop some small things on the side
 
 ## CTFs
 A list of the CTFs I have competed in
